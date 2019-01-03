@@ -1,0 +1,10 @@
+Package: com.muirey03.waves
+Name: Waves
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, preferenceloader, ws.hbang.common (>= 1.11)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Fluid simulation on your homescreen
+Maintainer: Muirey03
+Author: Muirey03
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/Waves.bundle/Icon@3x.png
